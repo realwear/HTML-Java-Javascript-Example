@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:contentDescription="hf_scroll_none|hf_add_commands:test one|test two|test three|set up new commands"
+    tools:context=".MainActivity">
+
+    <com.realwear.htmljavajavascript.WearWebView
+        android:id="@+id/wearwebview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </com.realwear.htmljavajavascript.WearWebView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
